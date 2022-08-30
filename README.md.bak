@@ -12,8 +12,8 @@ Para subir um servidor local, basta executar via PowerShell:
 Por padrão, o site de administração do RabbitMq irá subir na porta 1567.  
 http://localhost:15672  
 
-**User:** admin
-**Password:** admin
+** User: ** admin
+** Password: ** admin
 
 Para destruir o container:  
 
