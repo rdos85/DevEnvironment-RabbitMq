@@ -9,11 +9,12 @@ Para subir um servidor local, basta executar via PowerShell:
 .\create-rabbit.ps1
 ```
 
-Por padrão, o site de administração do RabbitMq irá subir na porta 1567.  
-http://localhost:15672  
+Por padrão, a porta para conexão para broker é **5672**.  
 
-**User:** admin
-**Password:** admin
+Por padrão, o site de administração do RabbitMq irá subir na porta **1567**.  http://localhost:15672  
+
+**User:** admin  
+**Password:** admin  
 
 Para destruir o container:  
 
